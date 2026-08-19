@@ -25,5 +25,3 @@ The complete chemistry engine, trained model, reference data, and interface are 
 All molecular processing and inference happen inside the browser.
 
 MLTox does not upload compounds, store results, use analytics, or communicate with an inference server. Once loaded, the application can operate without an internet connection.
-# mltox-wasm
-# mltox-wasm
